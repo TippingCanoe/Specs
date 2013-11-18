@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   #                   * Markdown format.
   #                   * Don't worry about the indent, we strip it!
   #                  DESC
-  s.homepage     = "https://github.com/robotafterall/JLRoutes-EasyRouting"
+  s.homepage     = "https://github.com/tippingcanoe/JLRoutes-EasyRouting"
   # s.screenshots  = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 
   # Specify the license type. CocoaPods detects automatically the license file if it is named
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retrieved.
   #
-  s.source       = { :git => "git@github.com:robotafterall/JLRoutes-EasyRouting.git", :tag => "0.0.1" }
+  s.source       = { :git => "git@github.com:tippingcanoe/JLRoutes-EasyRouting.git", :tag => "0.0.1" }
 
 
   # If this Pod runs only on iOS or OS X, then specify the platform and
