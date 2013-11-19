@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 		  'Alex Ivlev'  => 'aivlev@ign.com',
 		  'Brad Taylor'  => 'brtaylor@ign.com' }
 
-  s.source   = { :git => 'git@github.com:tippingcanoe/ShareThis.git', :tag => '1.0.1' }
+  s.source   = { :git => 'git@github.com:TippingCanoe/ShareThis.git', :tag => '1.0.1' }
 
   s.description  = 'A sharing controller that allows anyone to implement '\
 		   'sharing into their projects easily. iOS 5 will use action '\
