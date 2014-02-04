@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author       = { "Jeff Friesen" => "j.friesen@tippingcanoe.com" }
   s.platform     = :ios, '5.0'
-  s.source       = { :git => "git@github.com:robotafterall/PageScroll.git", :tag => "0.1.1" }
+  s.source       = { :git => "git@github.com:TippingCanoe/PageScroll.git", :tag => "0.1.1" }
   s.source_files  = 'PageScroll/*.{h,m}'
   s.requires_arc = true
 
