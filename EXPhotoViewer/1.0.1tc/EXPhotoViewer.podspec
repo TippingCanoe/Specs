@@ -35,7 +35,7 @@ Then if for example "anImageView" contains the image you would like to show, jus
   s.platform     = :ios
   s.platform     = :ios, '6.0'
 
-  s.source       = { :git => "https://github.com/TippingCanoe/EXPhotoViewer.git", :tag => "1.0.2tc" }
+  s.source       = { :git => "https://github.com/TippingCanoe/EXPhotoViewer.git", :tag => "1.0.3tc" }
 
   s.source_files = 'EXPhotoViewer/*.{h,m}'
 
