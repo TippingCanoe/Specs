@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'RDRStickyKeyboardView'
-  s.version  = '0.0.2'
+  s.version  = '0.0.2tc'
   s.platform = :ios
   s.license  = 'MIT'
   s.summary  = 'Replication of iMessage\'s text input behavior on iOS 7'
