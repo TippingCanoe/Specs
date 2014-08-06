@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 		   'also for read-later services to share with articles.'
   s.source_files = 'Code/*.{h,m}', 'Code/KeyChainItemWrapper/*.{h,m}'
   s.resources    = 'Assets/*.png'
-  s.dependency 'Facebook-iOS-SDK', '3.16'
+  s.dependency 'Facebook-iOS-SDK', '3.7.1'
   s.dependency 'REComposeViewController', '0.0.1'
   s.dependency 'cocoa-oauth', '0.0.1'
   s.frameworks = 'Security', 'QuartzCore', 'MessageUI', 'Twitter', 'CoreGraphics'
